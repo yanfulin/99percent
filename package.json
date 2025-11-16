@@ -1,0 +1,23 @@
+{
+  "name": "investment-returns-dashboard",
+  "version": "1.0.0",
+  "description": "顯示 S&P 500、國際小型股與美國長債的平均回報",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "finance",
+    "investment",
+    "returns",
+    "sp500"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
+}
+
