@@ -1,4 +1,8 @@
 {
-  "version": 2
+  "version": 2,
+  "buildCommand": null,
+  "outputDirectory": ".",
+  "framework": null,
+  "installCommand": "npm install --production"
 }
 
